@@ -1,9 +1,635 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9117a7e8-50b4-46f0-a314-457615f9832d" name="Default Changelist" comment="">
+    <list default="true" id="9117a7e8-50b4-46f0-a314-457615f9832d" name="Default Changelist" comment="项目一">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir/json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=上海市/cityname=上海市/.part-00103-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=上海市/cityname=上海市/part-00103-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=临沧市/.part-00051-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=临沧市/part-00051-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=文山壮族苗族自治州/.part-00078-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=文山壮族苗族自治州/part-00078-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=昆明市/.part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=昆明市/part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=昭通市/.part-00125-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=昭通市/part-00125-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=玉溪市/.part-00015-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=玉溪市/part-00015-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=西双版纳傣族自治州/.part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=云南省/cityname=西双版纳傣族自治州/part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=乌兰察布市/.part-00122-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=乌兰察布市/part-00122-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=包头市/.part-00172-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=包头市/part-00172-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=呼和浩特市/.part-00155-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=呼和浩特市/part-00155-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=巴彦淖尔市/.part-00009-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=巴彦淖尔市/part-00009-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=赤峰市/.part-00028-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=赤峰市/part-00028-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=通辽市/.part-00184-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=通辽市/part-00184-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=鄂尔多斯市/.part-00191-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=内蒙古自治区/cityname=鄂尔多斯市/part-00191-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=北京市/cityname=北京市/.part-00066-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=北京市/cityname=北京市/part-00066-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=吉林市/.part-00189-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=吉林市/part-00189-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=四平市/.part-00095-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=四平市/part-00095-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=延边朝鲜族自治州/.part-00142-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=延边朝鲜族自治州/part-00142-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=松原市/.part-00145-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=松原市/part-00145-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=辽源市/.part-00089-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=辽源市/part-00089-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=通化市/.part-00061-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=通化市/part-00061-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=长春市/.part-00130-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=吉林省/cityname=长春市/part-00130-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=乐山市/.part-00031-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=乐山市/part-00031-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=内江市/.part-00148-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=内江市/part-00148-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=凉山彝族自治州/.part-00174-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=凉山彝族自治州/part-00174-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=南充市/.part-00129-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=南充市/part-00129-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=宜宾市/.part-00195-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=宜宾市/part-00195-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=广元市/.part-00003-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=广元市/part-00003-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=德阳市/.part-00070-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=德阳市/part-00070-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=成都市/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=成都市/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=泸州市/.part-00056-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=泸州市/part-00056-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=甘孜藏族自治州/.part-00065-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=甘孜藏族自治州/part-00065-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=眉山市/.part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=眉山市/part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=绵阳市/.part-00014-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=绵阳市/part-00014-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=自贡市/.part-00188-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=自贡市/part-00188-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=资阳市/.part-00005-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=资阳市/part-00005-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=达州市/.part-00051-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=达州市/part-00051-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=遂宁市/.part-00168-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=遂宁市/part-00168-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=雅安市/.part-00007-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=四川省/cityname=雅安市/part-00007-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=天津市/cityname=天津市/.part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=天津市/cityname=天津市/part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=宁夏回族自治区/cityname=固原市/.part-00072-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=宁夏回族自治区/cityname=固原市/part-00072-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=宁夏回族自治区/cityname=石嘴山市/.part-00006-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=宁夏回族自治区/cityname=石嘴山市/part-00006-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=宁夏回族自治区/cityname=银川市/.part-00071-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=宁夏回族自治区/cityname=银川市/part-00071-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=亳州市/.part-00071-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=亳州市/part-00071-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=合肥市/.part-00063-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=合肥市/part-00063-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=安庆市/.part-00035-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=安庆市/part-00035-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=宣城市/.part-00032-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=宣城市/part-00032-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=宿州市/.part-00008-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=宿州市/part-00008-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=未知/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=未知/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=淮北市/.part-00135-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=淮北市/part-00135-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=淮南市/.part-00137-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=淮南市/part-00137-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=滁州市/.part-00019-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=滁州市/part-00019-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=芜湖市/.part-00119-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=芜湖市/part-00119-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=蚌埠市/.part-00091-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=蚌埠市/part-00091-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=铜陵市/.part-00099-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=铜陵市/part-00099-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=阜阳市/.part-00053-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=阜阳市/part-00053-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=黄山市/.part-00152-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=安徽省/cityname=黄山市/part-00152-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=东营市/.part-00175-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=东营市/part-00175-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=临沂市/.part-00045-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=临沂市/part-00045-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=威海市/.part-00146-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=威海市/part-00146-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=德州市/.part-00184-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=德州市/part-00184-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=日照市/.part-00087-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=日照市/part-00087-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=未知/.part-00188-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=未知/part-00188-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=枣庄市/.part-00085-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=枣庄市/part-00085-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=泰安市/.part-00079-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=泰安市/part-00079-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=济南市/.part-00080-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=济南市/part-00080-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=济宁市/.part-00017-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=济宁市/part-00017-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=淄博市/.part-00033-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=淄博市/part-00033-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=滨州市/.part-00083-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=滨州市/part-00083-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=潍坊市/.part-00189-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=潍坊市/part-00189-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=烟台市/.part-00123-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=烟台市/part-00123-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=聊城市/.part-00068-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=聊城市/part-00068-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=莱芜市/.part-00030-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=莱芜市/part-00030-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=菏泽市/.part-00012-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=菏泽市/part-00012-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=青岛市/.part-00068-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山东省/cityname=青岛市/part-00068-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=临汾市/.part-00060-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=临汾市/part-00060-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=吕梁市/.part-00181-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=吕梁市/part-00181-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=太原市/.part-00056-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=太原市/part-00056-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=忻州市/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=忻州市/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=晋中市/.part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=晋中市/part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=晋城市/.part-00066-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=晋城市/part-00066-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=运城市/.part-00075-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=运城市/part-00075-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=长治市/.part-00139-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=长治市/part-00139-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=阳泉市/.part-00001-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=山西省/cityname=阳泉市/part-00001-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=东莞市/.part-00022-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=东莞市/part-00022-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=中山市/.part-00019-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=中山市/part-00019-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=云浮市/.part-00159-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=云浮市/part-00159-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=佛山市/.part-00116-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=佛山市/part-00116-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=广州市/.part-00182-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=广州市/part-00182-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=惠州市/.part-00151-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=惠州市/part-00151-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=揭阳市/.part-00034-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=揭阳市/part-00034-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=梅州市/.part-00128-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=梅州市/part-00128-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=汕头市/.part-00118-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=汕头市/part-00118-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=江门市/.part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=江门市/part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=深圳市/.part-00088-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=深圳市/part-00088-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=清远市/.part-00113-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=清远市/part-00113-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=湛江市/.part-00014-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=湛江市/part-00014-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=珠海市/.part-00130-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=珠海市/part-00130-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=肇庆市/.part-00088-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=肇庆市/part-00088-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=茂名市/.part-00078-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=茂名市/part-00078-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=阳江市/.part-00041-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=阳江市/part-00041-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=韶关市/.part-00152-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广东省/cityname=韶关市/part-00152-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=北海市/.part-00021-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=北海市/part-00021-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=南宁市/.part-00035-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=南宁市/part-00035-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=崇左市/.part-00025-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=崇左市/part-00025-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=柳州市/.part-00018-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=柳州市/part-00018-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=桂林市/.part-00154-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=桂林市/part-00154-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=梧州市/.part-00181-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=梧州市/part-00181-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=河池市/.part-00115-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=河池市/part-00115-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=玉林市/.part-00056-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=玉林市/part-00056-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=百色市/.part-00139-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=百色市/part-00139-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=贵港市/.part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=广西壮族自治区/cityname=贵港市/part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=新疆维吾尔自治区/cityname=乌鲁木齐市/.part-00111-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=新疆维吾尔自治区/cityname=乌鲁木齐市/part-00111-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=新疆维吾尔自治区/cityname=未知/.part-00131-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=新疆维吾尔自治区/cityname=未知/part-00131-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=未知/cityname=未知/.part-00097-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=未知/cityname=未知/part-00097-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=南京市/.part-00095-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=南京市/part-00095-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=南通市/.part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=南通市/part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=宿迁市/.part-00143-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=宿迁市/part-00143-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=常州市/.part-00195-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=常州市/part-00195-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=徐州市/.part-00040-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=徐州市/part-00040-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=扬州市/.part-00098-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=扬州市/part-00098-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=无锡市/.part-00116-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=无锡市/part-00116-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=未知/.part-00022-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=未知/part-00022-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=泰州市/.part-00022-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=泰州市/part-00022-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=淮安市/.part-00181-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=淮安市/part-00181-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=盐城市/.part-00065-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=盐城市/part-00065-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=苏州市/.part-00145-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=苏州市/part-00145-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=连云港市/.part-00104-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=连云港市/part-00104-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=镇江市/.part-00182-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江苏省/cityname=镇江市/part-00182-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=上饶市/.part-00160-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=上饶市/part-00160-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=九江市/.part-00065-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=九江市/part-00065-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=南昌市/.part-00044-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=南昌市/part-00044-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=吉安市/.part-00121-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=吉安市/part-00121-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=宜春市/.part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=宜春市/part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=抚州市/.part-00025-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=抚州市/part-00025-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=景德镇市/.part-00038-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=景德镇市/part-00038-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=未知/.part-00023-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=未知/part-00023-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=萍乡市/.part-00190-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=萍乡市/part-00190-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=赣州市/.part-00040-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=江西省/cityname=赣州市/part-00040-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=保定市/.part-00192-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=保定市/part-00192-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=唐山市/.part-00098-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=唐山市/part-00098-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=廊坊市/.part-00101-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=廊坊市/part-00101-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=张家口市/.part-00057-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=张家口市/part-00057-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=承德市/.part-00180-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=承德市/part-00180-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=沧州市/.part-00117-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=沧州市/part-00117-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=石家庄市/.part-00144-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=石家庄市/part-00144-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=秦皇岛市/.part-00063-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=秦皇岛市/part-00063-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=衡水市/.part-00148-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=衡水市/part-00148-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=邢台市/.part-00050-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=邢台市/part-00050-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=邯郸市/.part-00150-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河北省/cityname=邯郸市/part-00150-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=三门峡市/.part-00009-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=三门峡市/part-00009-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=信阳市/.part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=信阳市/part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=南阳市/.part-00156-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=南阳市/part-00156-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=周口市/.part-00014-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=周口市/part-00014-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=商丘市/.part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=商丘市/part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=安阳市/.part-00035-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=安阳市/part-00035-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=平顶山市/.part-00083-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=平顶山市/part-00083-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=开封市/.part-00108-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=开封市/part-00108-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=新乡市/.part-00081-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=新乡市/part-00081-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=洛阳市/.part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=洛阳市/part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=漯河市/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=漯河市/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=濮阳市/.part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=濮阳市/part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=焦作市/.part-00154-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=焦作市/part-00154-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=许昌市/.part-00043-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=许昌市/part-00043-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=郑州市/.part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=河南省/cityname=郑州市/part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=丽水市/.part-00108-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=丽水市/part-00108-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=台州市/.part-00149-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=台州市/part-00149-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=嘉兴市/.part-00039-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=嘉兴市/part-00039-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=宁波市/.part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=宁波市/part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=未知/.part-00148-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=未知/part-00148-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=杭州市/.part-00179-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=杭州市/part-00179-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=温州市/.part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=温州市/part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=湖州市/.part-00184-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=湖州市/part-00184-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=绍兴市/.part-00111-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=绍兴市/part-00111-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=舟山市/.part-00178-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=舟山市/part-00178-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=衢州市/.part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=衢州市/part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=金华市/.part-00093-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=浙江省/cityname=金华市/part-00093-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=海南省/cityname=未知/.part-00068-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=海南省/cityname=未知/part-00068-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=海南省/cityname=海口市/.part-00057-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=海南省/cityname=海口市/part-00057-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=十堰市/.part-00139-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=十堰市/part-00139-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=咸宁市/.part-00005-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=咸宁市/part-00005-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=宜昌市/.part-00082-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=宜昌市/part-00082-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=未知/.part-00055-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=未知/part-00055-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=武汉市/.part-00188-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=武汉市/part-00188-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=荆州市/.part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=荆州市/part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=襄樊市/.part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=襄樊市/part-00114-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=黄冈市/.part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖北省/cityname=黄冈市/part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=娄底市/.part-00040-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=娄底市/part-00040-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=岳阳市/.part-00062-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=岳阳市/part-00062-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=常德市/.part-00110-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=常德市/part-00110-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=张家界市/.part-00036-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=张家界市/part-00036-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=怀化市/.part-00062-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=怀化市/part-00062-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=永州市/.part-00144-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=永州市/part-00144-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=湘潭市/.part-00058-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=湘潭市/part-00058-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=湘西土家族苗族自治州/.part-00175-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=湘西土家族苗族自治州/part-00175-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=益阳市/.part-00094-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=益阳市/part-00094-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=衡阳市/.part-00018-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=衡阳市/part-00018-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=邵阳市/.part-00126-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=邵阳市/part-00126-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=郴州市/.part-00051-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=郴州市/part-00051-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=长沙市/.part-00119-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=湖南省/cityname=长沙市/part-00119-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=甘肃省/cityname=兰州市/.part-00075-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=甘肃省/cityname=兰州市/part-00075-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=甘肃省/cityname=张掖市/.part-00026-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=甘肃省/cityname=张掖市/part-00026-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=三明市/.part-00176-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=三明市/part-00176-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=厦门市/.part-00023-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=厦门市/part-00023-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=宁德市/.part-00096-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=宁德市/part-00096-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=泉州市/.part-00061-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=泉州市/part-00061-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=漳州市/.part-00036-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=漳州市/part-00036-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=福州市/.part-00146-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=福州市/part-00146-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=莆田市/.part-00128-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=莆田市/part-00128-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=龙岩市/.part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=福建省/cityname=龙岩市/part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=西藏自治区/cityname=拉萨市/.part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=西藏自治区/cityname=拉萨市/part-00185-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=西藏自治区/cityname=未知/.part-00169-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=西藏自治区/cityname=未知/part-00169-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=安顺市/.part-00054-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=安顺市/part-00054-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=贵阳市/.part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=贵阳市/part-00112-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=遵义市/.part-00091-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=遵义市/part-00091-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=黔西南布依族苗族自治未知/.part-00071-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=贵州省/cityname=黔西南布依族苗族自治未知/part-00071-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=丹东市/.part-00197-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=丹东市/part-00197-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=大连市/.part-00055-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=大连市/part-00055-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=抚顺市/.part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=抚顺市/part-00069-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=朝阳市/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=朝阳市/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=沈阳市/.part-00007-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=沈阳市/part-00007-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=营口市/.part-00178-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=营口市/part-00178-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=葫芦岛市/.part-00061-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=葫芦岛市/part-00061-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=辽阳市/.part-00143-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=辽阳市/part-00143-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=铁岭市/.part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=铁岭市/part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=阜新市/.part-00020-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=阜新市/part-00020-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=鞍山市/.part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=辽宁省/cityname=鞍山市/part-00024-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=重庆市/cityname=重庆市/.part-00100-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=重庆市/cityname=重庆市/part-00100-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=咸阳市/.part-00027-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=咸阳市/part-00027-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=安康市/.part-00162-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=安康市/part-00162-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=宝鸡市/.part-00146-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=宝鸡市/part-00146-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=未知/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=未知/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=榆林市/.part-00110-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=榆林市/part-00110-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=渭南市/.part-00054-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=渭南市/part-00054-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=西安市/.part-00057-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=陕西省/cityname=西安市/part-00057-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=青海省/cityname=西宁市/.part-00192-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=青海省/cityname=西宁市/part-00192-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=七台河市/.part-00018-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=七台河市/part-00018-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=佳木斯市/.part-00107-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=佳木斯市/part-00107-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=双鸭山市/.part-00013-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=双鸭山市/part-00013-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=哈尔滨市/.part-00021-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=哈尔滨市/part-00021-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=大庆市/.part-00169-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=大庆市/part-00169-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=牡丹江市/.part-00165-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=牡丹江市/part-00165-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=绥化市/.part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=绥化市/part-00120-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=鸡西市/.part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=鸡西市/part-00042-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=黑河市/.part-00074-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=黑河市/part-00074-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=齐齐哈尔市/.part-00012-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-warehouse/procity/provincename=黑龙江省/cityname=齐齐哈尔市/part-00012-99acee1f-050a-4517-97ed-bd1aca6dd4ca.c000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Location/APP.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Location/LocationRpt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Location/ProCityCt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Location/distribution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/BusinessTag.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagAd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagDevice.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagKword.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagLocation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagsContext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tags/TagsContext2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Test/Test1_1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Test/Test1_2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Test/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/etl/Log2parquet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/graph_Test/GraphTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/AmapUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/HttpUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/JedisConnectionPool.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/RptUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/SchemaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/String2Type.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/Tag.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/TagUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/util/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/APP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/LocationRpt$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/LocationRpt$$anonfun$main$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/LocationRpt$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/LocationRpt$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/LocationRpt$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/LocationRpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/ProCityCt$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/ProCityCt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/distribution$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Location/distribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/GP23_DMP.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/BusinessTag$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/BusinessTag$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/BusinessTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagAd$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagAd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagApp$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagDevice$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagDevice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagKword$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagKword$$anonfun$makeTags$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagKword$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagKword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagLocation$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagLocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$6$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$6$$anonfun$apply$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$6$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tags/TagsContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$$anonfun$3$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$$anonfun$3$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day01/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day01/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/etl/Log2parquet$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/etl/Log2parquet$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/etl/Log2parquet$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/etl/Log2parquet$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/etl/Log2parquet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graph_Test/GraphTest$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graph_Test/GraphTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/AmapUtil$$anonfun$getBusinessFromAmap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/AmapUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/AmapUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/HttpUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/HttpUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/JedisConnectionPool$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/JedisConnectionPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/RptUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/RptUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/SchemaUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/SchemaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/String2Type$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/String2Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/Tag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/TagUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/TagUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/Test$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/Test$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/Test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +639,108 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagsContext.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="374">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="e#15#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/util/HttpUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#14#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/graph_Test/GraphTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="18" />
+              <folding>
+                <element signature="e#20#64#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/day01/test.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagsContext2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="1518">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#14#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="e#14#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/util/TagUtils.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#14#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/util/AmapUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-132">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="e#14#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/BusinessTag.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1276">
+              <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/util/JedisConnectionPool.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -41,13 +754,53 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/day01/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/String2Type.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/SchemaUtil.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/Location/ProCityCt.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Location/distribution.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/RptUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Location/LocationRpt.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Location/APP.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tag/TagAd.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/Tag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/etl/Log2parquet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/HttpUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagDevice.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagAd.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Test/Test1_2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Test/Test1_1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Test/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagLocation.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagKword.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/AmapUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/BusinessTag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/JedisConnectionPool.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagsContext.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/graph_Test/GraphTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/TagUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tags/TagsContext2.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="185" />
-    <option name="y" value="10" />
-    <option name="width" value="1093" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="490" />
+    <option name="width" value="965" />
     <option name="height" value="748" />
   </component>
   <component name="ProjectView">
@@ -55,6 +808,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -66,45 +820,41 @@
             <path>
               <item name="GP23_DMP" type="b2602c69:ProjectViewProjectNode" />
               <item name="GP23_DMP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-warehouse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GP23_DMP" type="b2602c69:ProjectViewProjectNode" />
               <item name="GP23_DMP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GP23_DMP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GP23_DMP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GP23_DMP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GP23_DMP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dir" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36982968" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GP23_DMP\dir" />
+      <recent name="F:\GP23_DMP\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,56 +868,565 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.TagsContext">
+    <configuration name="Log2parquet" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="etl.Log2parquet" />
+      <module name="GP23_DMP" />
+      <option name="PROGRAM_PARAMETERS" value="D:\Download\textLog.log F:\gp23dmp02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="etl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TagsContext" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Tags.TagsContext" />
+      <module name="GP23_DMP" />
+      <option name="PROGRAM_PARAMETERS" value="F:\gp23dmp02 E:\ACourse\Spark项目\day01\Spark用户画像分析\app_dict.txt E:\ACourse\Spark项目\day01\Spark用户画像分析\stopwords.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tags.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="util.Test" />
+      <module name="GP23_DMP" />
+      <option name="PROGRAM_PARAMETERS" value="E:\ACourse\Spark项目\day01\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log F:gp23dmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1_2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test1_2" />
+      <module name="GP23_DMP" />
+      <option name="PROGRAM_PARAMETERS" value="E:\ACourse\Spark项目\day01\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log F:gp23dmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="etl.Log2parquet" />
+      <module name="GP23_DMP" />
+      <option name="PROGRAM_PARAMETERS" value="E:\ACourse\Spark项目\day01\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log F:gp23dmp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test" />
+      <module name="GP23_DMP" />
+      <option name="PROGRAM_PARAMETERS" value="E:\ACourse\Spark项目\day01\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log F:gp23dmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TagsContext" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test1_2" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Log2parquet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TagsContext" />
+        <item itemvalue="Application.Log2parquet" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test1_2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9117a7e8-50b4-46f0-a314-457615f9832d" name="Default Changelist" comment="" />
+      <created>1568681573458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568681573458</updated>
+      <workItem from="1568681620925" duration="5577000" />
+      <workItem from="1568692337151" duration="22733000" />
+      <workItem from="1568767881425" duration="19654000" />
+      <workItem from="1568853972205" duration="12709000" />
+      <workItem from="1569027436990" duration="9946000" />
+      <workItem from="1569054574144" duration="7348000" />
+      <workItem from="1569071355551" duration="511000" />
+      <workItem from="1569071903559" duration="4449000" />
+      <workItem from="1569113327435" duration="14550000" />
+      <workItem from="1569199797715" duration="19814000" />
+    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="878000" />
+    <option name="totallyTimeSpent" value="119064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="185" y="10" width="1093" height="748" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24975799" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26106194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32890856" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.28171092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目一" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目一" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aaa">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/day01/test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Location/ProCityCt.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="e#18#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Location/LocationRpt.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#18#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6755" column="26" selection-start-line="6755" selection-start-column="26" selection-end-line="6755" selection-end-column="26" />
+          <folding>
+            <element signature="e#244767#244768#0" expanded="true" />
+            <element signature="e#244811#244812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/Tag.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Location/distribution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/String2Type.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/SchemaUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/RptUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Location/APP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="e#18#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir/json.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.58/fastjson-1.2.58.jar!/com/alibaba/fastjson/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="278" column="23" selection-start-line="278" selection-start-column="23" selection-end-line="278" selection-end-column="23" />
+          <folding>
+            <element signature="e#7977#7978#0" expanded="true" />
+            <element signature="e#8017#8018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="324" column="6" selection-start-line="324" selection-start-column="6" selection-end-line="324" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/generic/TraversableForwarder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Test/Test1_2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="e#14#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="744" column="6" selection-start-line="744" selection-start-column="6" selection-end-line="744" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/util/Pool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagAd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Test/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagDevice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="100" column="85" lean-forward="true" selection-start-line="100" selection-start-column="85" selection-end-line="100" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Test/Test1_1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#14#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagKword.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagLocation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/client/HttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpGet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.58/fastjson-1.2.58.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="173" column="29" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/etl/Log2parquet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <element signature="e#13#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagsContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/AmapUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/BusinessTag.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/JedisConnectionPool.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/HttpUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#14#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/graph_Test/GraphTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#20#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/TagUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tags/TagsContext2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#14#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -188,10 +1447,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36982968" />
               </list>
             </option>
           </splitter-proportions>
@@ -211,7 +1471,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -228,7 +1488,6 @@
             <option name="proportions">
               <list>
                 <option value="0.36982968" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -248,10 +1507,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36982968" />
               </list>
             </option>
           </splitter-proportions>
